@@ -1,4 +1,4 @@
-# Fadayat Shamilov
+# Fadayat
 
 I build practical AI tools that turn voice and terminal context into useful actions. My projects span Linux, Android, browser extensions, and developer tooling.
 
